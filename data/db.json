@@ -1,0 +1,32 @@
+{
+  "Resto": [
+    {
+      "id": 1,
+      "name": "Pizza Maker",
+      "address": "delhi",
+      "rating": "4.7",
+      "email": "pizzamaker@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "demo Maker",
+      "address": "agra",
+      "rating": "3.7",
+      "email": "demomaker@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Pizza Hut",
+      "address": "delhi",
+      "rating": "4.9",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "name": "manoj ka dhaba",
+      "address": "Akbarpur",
+      "rating": "10",
+      "email": "manojlala@gmail.com",
+      "id": 5
+    }
+  ]
+}
